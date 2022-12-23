@@ -1,16 +1,11 @@
 # multi_game
 
-A new Flutter project.
+A new Flutter Game.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Demo for a game
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/91112485/209374669-33c4e050-de35-49de-b2e1-de733f611e9a.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
