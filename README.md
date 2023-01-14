@@ -1,6 +1,12 @@
 # multi_game
 
-A new Flutter Game.
+A new Flutter Game.That has multiple game.
+Tic Tac Toe
+Mini Sweeper
+Dianosaur Game
+Pacman
+Piano Tile
+2048_Game
 
 ## Getting Started
 
