@@ -14,7 +14,7 @@ class Tile extends StatelessWidget {
     this.fontSize,
     this.fontcolor,
   );
- 
+
   @override
   Widget build(BuildContext context) {
     return Container(

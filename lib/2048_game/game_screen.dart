@@ -274,7 +274,8 @@ class _GamePageState extends State<GamePage> with TickerProviderStateMixin {
           icon: const Icon(Icons.arrow_back),
           onPressed: () async {
             if (music == true) {
-              await player.play(AssetSource('music/2048/menu_button_click.mp3'));
+              await player
+                  .play(AssetSource('music/2048/menu_button_click.mp3'));
             }
             Navigator.pop(context, music);
           },
@@ -420,8 +421,8 @@ class _GamePageState extends State<GamePage> with TickerProviderStateMixin {
                       ),
                       onTap: () async {
                         if (music!) {
-                          await player
-                              .play(AssetSource('music/2048/menu_button_click.mp3'));
+                          await player.play(
+                              AssetSource('music/2048/menu_button_click.mp3'));
                         }
                         setState(() {
                           grid = blankGrid(userInputRow, userInputCol);
@@ -483,7 +484,8 @@ class _GamePageState extends State<GamePage> with TickerProviderStateMixin {
                   color: Color(MyColor.gridBackground),
                 ),
                 onTap: () async {
-                  await player.play(AssetSource('music/2048/menu_button_click.mp3'));
+                  await player
+                      .play(AssetSource('music/2048/menu_button_click.mp3'));
                   setState(() {
                     music = !music!;
                   });

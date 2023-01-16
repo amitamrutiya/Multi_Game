@@ -2,7 +2,6 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-
 import 'package:multi_game/mini_sweeper/data/board_square.dart';
 import 'package:multi_game/mini_sweeper/utils/image_utils.dart';
 
