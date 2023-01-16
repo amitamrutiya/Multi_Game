@@ -15,7 +15,7 @@ enum ImageType {
   flagged,
 }
 
-Image ?getImage(ImageType type) {
+Image? getImage(ImageType type) {
   switch (type) {
     case ImageType.zero:
       return Image.asset('assets/images/mini_sweeper/0.png');
@@ -46,7 +46,7 @@ Image ?getImage(ImageType type) {
   }
 }
 
-ImageType ?getImageTypeFromNumber(int number) {
+ImageType? getImageTypeFromNumber(int number) {
   switch (number) {
     case 0:
       return ImageType.zero;

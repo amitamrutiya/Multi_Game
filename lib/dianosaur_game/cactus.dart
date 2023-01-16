@@ -37,7 +37,8 @@ class Cactus extends GameObject {
   final ImageModel imageModel;
   final Offset worldLocation;
 
-  Cactus({required this.worldLocation}) : imageModel = cactus[Random().nextInt(cactus.length)];
+  Cactus({required this.worldLocation})
+      : imageModel = cactus[Random().nextInt(cactus.length)];
 
   @override
   Rect getRect(Size screenSize, double runDistance) {

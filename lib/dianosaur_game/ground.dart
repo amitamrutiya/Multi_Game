@@ -13,7 +13,7 @@ class Ground extends GameObject {
   final Offset worldLocation;
 
   Ground({required this.worldLocation});
-  
+
   @override
   Rect getRect(Size screenSize, double runDistance) {
     return Rect.fromLTWH(

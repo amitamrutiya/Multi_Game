@@ -6,7 +6,7 @@ class Dimensions {
   static Color mainColor = const Color(0xfff8ebe5);
   static Color secondryColor = const Color(0xfff1e3be);
   static Color accentColor = const Color(0xfff8ebe5);
-   static Color accentColortictactoe = const Color.fromARGB(255, 102, 102, 102);
+  static Color accentColortictactoe = const Color.fromARGB(255, 102, 102, 102);
   static double screenHeight = Get.context!.height;
   static double screenWidth = Get.context!.width;
 

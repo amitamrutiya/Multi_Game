@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:multi_game/piano_tile_game/note.dart';
 
-
 class Tile extends StatelessWidget {
   final double height;
   final NoteState state;

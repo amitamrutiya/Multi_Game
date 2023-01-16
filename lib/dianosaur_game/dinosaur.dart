@@ -70,7 +70,7 @@ class Dinosaur extends GameObject {
       currentImageModel = dinosaur[0];
     }
     // print("currntImageModel : " + currentImageModel.imagePath.toString());
-    
+
     try {
       elapsedTimeSeconds = (elapsedTime! - lastUpdate).inMilliseconds / 1000;
       // print("elapsedTimeSeconds : " + elapsedTimeSeconds.toString());

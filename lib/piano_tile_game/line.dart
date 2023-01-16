@@ -2,14 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:multi_game/piano_tile_game/note.dart';
 import 'package:multi_game/piano_tile_game/tile.dart';
 
-
 class Line extends AnimatedWidget {
   final int lineNumber;
   final List<Note> currentNotes;
   final Function(Note) onTileTap;
 
   const Line(
-      { Key? key,
+      {Key? key,
       required this.currentNotes,
       required this.onTileTap,
       required this.lineNumber,
