@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:multi_game/2048_game/home_screen.dart';
-import 'package:multi_game/ai_tic_tac_toe/home_screen.dart';
-import 'package:multi_game/data.dart';
-import 'package:multi_game/dianosaur_game/main.dart';
-import 'package:multi_game/dimention.dart';
-import 'package:multi_game/grid_tile.dart';
+import 'package:multi_combo_game/2048_game/home_screen.dart';
+import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/data.dart';
+import 'package:multi_combo_game/dianosaur_game/main.dart';
+import 'package:multi_combo_game/dimention.dart';
+import 'package:multi_combo_game/grid_tile.dart';
 
-import 'package:multi_game/mini_sweeper/widget/game.dart';
-import 'package:multi_game/pacman_game/HomePage.dart';
-import 'package:multi_game/piano_tile_game/main.dart';
+import 'package:multi_combo_game/mini_sweeper/widget/game.dart';
+import 'package:multi_combo_game/pacman_game/HomePage.dart';
+import 'package:multi_combo_game/piano_tile_game/main.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

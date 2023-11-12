@@ -1,4 +1,4 @@
-# Multi Game
+# multi_combo_game
 
 A collection of popular games developed using Flutter, including Minesweeper, Piano Tiles, 2048, and more.
 
@@ -21,7 +21,6 @@ flutter run
 2) Open the app on your android device.
 3) Select game that you want to play and enjoy game :)
 
-
 ## Game List
 - [AI_Tic_Tac_Toe Game](https://github.com/amitamrutiya2210/Ai_Tic_Tac_Toe)
 - [Minesweeper Game](https://github.com/amitamrutiya2210/mini_sweeper)
@@ -36,4 +35,3 @@ https://user-images.githubusercontent.com/91112485/209374669-33c4e050-de35-49de-
 
 ## Contact
 If you have any issues or questions about the app, please contact us at amitamrutiya2210@gmail.com for assistance.
-

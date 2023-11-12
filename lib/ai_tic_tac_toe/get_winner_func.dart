@@ -1,4 +1,4 @@
-import 'package:multi_game/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
 
 Map<String, dynamic> getWinner(Map<int, Mark> board) {
   final winningLines = [

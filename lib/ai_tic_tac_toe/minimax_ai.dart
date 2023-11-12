@@ -1,7 +1,7 @@
 import 'dart:math';
-import 'package:multi_game/ai_tic_tac_toe/get_winner_func.dart';
+import 'package:multi_combo_game/ai_tic_tac_toe/get_winner_func.dart';
 
-import 'package:multi_game/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
 
 class MiniMaxAI {
   GameMode gameMode;

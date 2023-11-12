@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:multi_game/piano_tile_game/note.dart';
-import 'package:multi_game/piano_tile_game/tile.dart';
+import 'package:multi_combo_game/piano_tile_game/note.dart';
+import 'package:multi_combo_game/piano_tile_game/tile.dart';
 
 class Line extends AnimatedWidget {
   final int lineNumber;
