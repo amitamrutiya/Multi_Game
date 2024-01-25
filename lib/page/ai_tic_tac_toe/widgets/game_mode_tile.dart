@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multi_combo_game/dimention.dart';
+import 'package:multi_combo_game/utils/dimention.dart';
 
 class ModeTile extends StatelessWidget {
   String modeText;

@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:multi_combo_game/piano_tile_game/note.dart';
+import 'package:multi_combo_game/page/piano_tile_game/note.dart';
 
 List<Note> initNotes() {
   List<Note> listNote = [];

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:multi_combo_game/ai_tic_tac_toe/screen/one_player_screen.dart';
-import 'package:multi_combo_game/ai_tic_tac_toe/widgets/player_mode_tile.dart';
-import 'package:multi_combo_game/ai_tic_tac_toe/screen/two_player_screen.dart';
-import 'package:multi_combo_game/dimention.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/screen/one_player_screen.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/widgets/player_mode_tile.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/screen/two_player_screen.dart';
+import 'package:multi_combo_game/utils/dimention.dart';
 
 enum Mark { x, o, none }
 

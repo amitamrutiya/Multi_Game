@@ -1,9 +1,9 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:multi_combo_game/piano_tile_game/line.dart';
-import 'package:multi_combo_game/piano_tile_game/line_divider.dart';
-import 'package:multi_combo_game/piano_tile_game/note.dart';
-import 'package:multi_combo_game/piano_tile_game/song_provider.dart';
+import 'package:multi_combo_game/page/piano_tile_game/line.dart';
+import 'package:multi_combo_game/page/piano_tile_game/line_divider.dart';
+import 'package:multi_combo_game/page/piano_tile_game/note.dart';
+import 'package:multi_combo_game/page/piano_tile_game/song_provider.dart';
 
 class Piano extends StatefulWidget {
   @override

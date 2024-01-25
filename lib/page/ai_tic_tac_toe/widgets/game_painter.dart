@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/home_screen.dart';
 
 class GamePainter extends CustomPainter {
   static late double _dividedSize;

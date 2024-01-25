@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multi_combo_game/piano_tile_game/note.dart';
+import 'package:multi_combo_game/page/piano_tile_game/note.dart';
 
 class Tile extends StatelessWidget {
   final double height;

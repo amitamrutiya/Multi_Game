@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:multi_combo_game/dianosaur_game/dinosaur.dart';
+import 'package:multi_combo_game/page/dianosaur_game/dinosaur.dart';
 import 'cactus.dart';
 import 'cloud.dart';
 

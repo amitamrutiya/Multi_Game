@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:audioplayers/audioplayers.dart';
-import 'package:multi_combo_game/2048_game/game_screen.dart';
-import 'package:multi_combo_game/2048_game/mycolor.dart';
+import 'package:multi_combo_game/page/2048_game/game_screen.dart';
+import 'package:multi_combo_game/page/2048_game/mycolor.dart';
 
 class HomeScreen2048 extends StatefulWidget {
   const HomeScreen2048({Key? key}) : super(key: key);

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'package:multi_combo_game/ai_tic_tac_toe/get_winner_func.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/get_winner_func.dart';
 
-import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
-import 'package:multi_combo_game/ai_tic_tac_toe/widgets/game_painter.dart';
-import 'package:multi_combo_game/dimention.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/widgets/game_painter.dart';
+import 'package:multi_combo_game/utils/dimention.dart';
 
 class TwoPlayerScreen extends StatefulWidget {
   @override

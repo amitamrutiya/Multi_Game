@@ -1,10 +1,10 @@
-import 'package:multi_combo_game/ai_tic_tac_toe/home_screen.dart';
-import 'package:multi_combo_game/ai_tic_tac_toe/screen/tic_tac_toe_game_screen.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/home_screen.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/screen/tic_tac_toe_game_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'package:multi_combo_game/ai_tic_tac_toe/widgets/game_mode_tile.dart';
-import 'package:multi_combo_game/dimention.dart';
+import 'package:multi_combo_game/page/ai_tic_tac_toe/widgets/game_mode_tile.dart';
+import 'package:multi_combo_game/utils/dimention.dart';
 
 class OnePlayerScreen extends StatelessWidget {
   const OnePlayerScreen({Key? key}) : super(key: key);
