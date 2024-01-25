@@ -20,7 +20,6 @@ class HomePage extends StatelessWidget {
       backgroundColor: Dimensions.mainColor,
       body: Container(
         margin: EdgeInsets.all(Dimensions.width30),
-        // color: Colors.red,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [

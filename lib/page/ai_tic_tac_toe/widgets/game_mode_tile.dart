@@ -1,6 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:multi_combo_game/utils/dimention.dart';
 
+class name extends StatelessWidget {
+  const name({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
 class ModeTile extends StatelessWidget {
   String modeText;
   String imagePath;

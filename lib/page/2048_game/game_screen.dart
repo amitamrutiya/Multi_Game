@@ -14,7 +14,6 @@ class GamePage extends StatefulWidget {
   const GamePage(this.args, this.music);
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return _GamePageState();
   }
 }

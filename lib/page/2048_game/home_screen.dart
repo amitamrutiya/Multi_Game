@@ -63,7 +63,6 @@ class _HomeScreen2048State extends State<HomeScreen2048>
   Widget build(BuildContext context) {
     _scale1 = 1 - bouncingController.value;
 
-    var screenHeight = MediaQuery.of(context).size.height;
     var screenWidth = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(

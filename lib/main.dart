@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:multi_combo_game/utils/dimention.dart';
-import 'package:multi_combo_game/page/main_home_page.dart';
+import 'package:multi_combo_game/page/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,8 +23,6 @@ class MyApp extends StatelessWidget {
         splashIconSize: 500,
         duration: 3000,
         splashTransition: SplashTransition.fadeTransition,
-
-        // pageTransitionType: PageTransitionType.leftToRightwithFade,
         animationDuration: const Duration(seconds: 1),
       ),
     );
