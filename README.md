@@ -38,6 +38,6 @@ If you have any issues or questions about the app, please contact us at amitamru
 
 ## Contribution
 
-Feel free to contribute to existing projects or add new projects that would benefit the GoLang learning community.
+Feel free to contribute to existing projects or add new projects that would benefit the Flutter learning community.
 
 Happy coding! 🚀
