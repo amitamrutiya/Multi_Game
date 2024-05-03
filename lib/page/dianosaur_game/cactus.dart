@@ -1,10 +1,10 @@
 import 'dart:math';
 
 import 'package:flutter/widgets.dart';
+import 'package:multi_combo_game/page/dianosaur_game/ImageModel.dart';
 
 import 'constants.dart';
 import 'game_object.dart';
-import 'imageModel.dart';
 
 List<ImageModel> cactus = [
   ImageModel()
