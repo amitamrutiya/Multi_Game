@@ -6,7 +6,7 @@ A collection of popular games developed using Flutter, including Minesweeper, Pi
 
 Run Project Clone the repository
 ```
-https://github.com/amitamrutiya2210/multi_game
+git clone https://github.com/amitamrutiya2210/multi_game
 ```
 Install the dependencies
 ```
